@@ -1,7 +1,7 @@
 <div align="center">
   <br />
     <a href="https://www.youtube.com/watch?v=FkowOdMjvYo" target="_blank">
-      <img src="https://github.com/sujatagunale/EasyRead/assets/151519281/24b91a9d-29c8-4877-b53c-52a0a58d1a38" alt="Project Banner">
+      <img src="https://github.com/sujatagunale/EasyRead/assets/151519281/65ff8e7a-9167-4761-bb89-59b6b3ba8307" alt="Project Banner">
     </a>
   <br />
 
@@ -11,12 +11,17 @@
     <img src="https://img.shields.io/badge/-Tailwind_CSS-black?style=for-the-badge&logoColor=white&logo=tailwindcss&color=06B6D4" alt="tailwindcss" />
   </div>
 
-  <h3 align="center">A 3D Dev Portfolio</h3>
+  <h1 align="center">A 3D Dev Portfolio</h1>
 
    <div align="center">
      Build this project step by step with our detailed tutorial on <a href="https://www.youtube.com/@javascriptmastery/videos" target="_blank"><b>JavaScript Mastery</b></a> YouTube. Join the JSM family!
     </div>
 </div>
+
+## 📋 Table of Contents
+
+1. 🤖 [Introduction](#introduction)
+2.  ⚙️ [Tech Stack](#tech-stack)
 
 ## 🤖 Introduction
 
@@ -26,7 +31,7 @@ Check out the detailed tutorial for this open-source project [here](https://www.
 
 <a href="https://discord.com/invite/n6EdbFJ" target="_blank"><img src="https://amplication.com/images/discord_banner_purple.svg" /></a>
 
-## ⚙️ Stack
+## ⚙️ Tech Stack
 
 - Node.js
 - React.js
@@ -39,18 +44,29 @@ Check out the detailed tutorial for this open-source project [here](https://www.
 
 ## 🔋 Features
 
-- Engaging 3D Floating Fox Island: Rotate and explore using drag-and-drop or arrow keys.
-- Dynamic Sky Movement: Sky adapts to Island motion, enhancing the immersive experience.
-- Soaring 3D Bird: Responds dynamically to camera positions, adding a lively touch.
-- Informative Island Sections: Each island part shares details about the individual.
-- Comprehensive About Page: Dive into detailed information, skills, and education.
-- Project Showcase: Explore a curated list of projects created by the individual.
-- Contact Page with EmailJS Integration: Easily send emails directly from the contact form.
-- Interactive Fox on Contact Page: A playful fox reacts to user interactions with the form.
-- Seamless Animations: Enjoy fluid and captivating visual transitions.
-- Lofi Music Integration: Delight in smooth music that adapts to user interactions.
-- Responsive Design: Optimized for a seamless experience across all devices.
-- Aesthetic Glassmorphism and Neobrutalism Effects: Elevate the visual appeal with modern design trends.
+👉 **Engaging 3D Floating Fox Island**: Rotate and explore using drag-and-drop or arrow keys.
+
+👉 **Dynamic Sky Movement**: Sky adapts to Island motion, enhancing the immersive experience.
+
+👉 **Soaring 3D Bird**: Responds dynamically to camera positions, adding a lively touch.
+
+👉 **Informative Island Sections**: Each island part shares details about the individual.
+
+👉 **Comprehensive About Page**: Dive into detailed information, skills, and education.
+
+👉 **Project Showcase**: Explore a curated list of projects created by the individual.
+
+👉 **Contact Page with EmailJS Integration**: Easily send emails directly from the contact form.
+
+👉 **Interactive Fox on Contact Page**: A playful fox reacts to user interactions with the form.
+
+👉 **Seamless Animations**: Enjoy fluid and captivating visual transitions.
+
+👉 **Lofi Music Integration**: Delight in smooth music that adapts to user interactions.
+
+👉 **Responsive Design**: Optimized for a seamless experience across all devices.
+
+👉 **Aesthetic Glassmorphism and Neobrutalism Effects**: Elevate the visual appeal with modern design trends.
 
 and many more, including code architecture and reusability 
 
@@ -62,9 +78,9 @@ Follow these steps to set up the project locally on your machine.
 
 Make sure you have the following installed on your machine:
 
-- Git
-- Node.js
-- npm (Node Package Manager)
+- [Git](https://git-scm.com/)
+- [Node.js](https://nodejs.org/en)
+- [npm](https://www.npmjs.com/) (Node Package Manager)
 
 **Cloning the Repository**
 
@@ -599,16 +615,23 @@ Models and Assets used in the project can be found [here](https://drive.google.c
 
 ## 🚀 More
 
+**Advance your skills with Next.js 14 Pro Course**
+
 Enjoyed creating this project? Dive deeper into our PRO courses for a richer learning adventure. They're packed with detailed explanations, cool features, and exercises to boost your skills. Give it a go!
 
 <a href="https://jsmastery.pro/next14" target="_blank">
-<img src="https://github.com/sujatagunale/EasyRead/assets/151519281/65cdf16f-15e3-49e4-8bdf-62cfa61a2f8e" alt="Project Banner">
+<img src="https://github.com/sujatagunale/EasyRead/assets/151519281/557837ce-f612-4530-ab24-189e75133c71" alt="Project Banner">
 </a>
+
+<br />
+<br />
+
+**Accelerate your professional journey with Expert Training program**
 
 And if you're hungry for more than just a course and want to understand how we learn and tackle tech challenges, hop into our personalized masterclass. We cover best practices, different web skills, and offer mentorship to boost your confidence. Let's learn and grow together!
 
 <a href="https://www.jsmastery.pro/masterclass" target="_blank">
-<img src="https://github.com/sujatagunale/EasyRead/assets/151519281/65d8c4ff-15f8-4d19-b3c6-f992810d634e" alt="Project Banner">
+<img src="https://github.com/sujatagunale/EasyRead/assets/151519281/fed352ad-f27b-400d-9b8f-c7fe628acb84" alt="Project Banner">
 </a>
 
 #
