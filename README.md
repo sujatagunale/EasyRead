@@ -20,7 +20,7 @@
 
 ## 📋 Table of Contents
 
-1. 🤖 [Introduction](#introduction)
+1. 🤖 [Introduction](#🤖-introduction)
 2.  ⚙️ [Tech Stack](#tech-stack)
 
 ## 🤖 Introduction
