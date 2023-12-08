@@ -11,7 +11,7 @@
     <img src="https://img.shields.io/badge/-Tailwind_CSS-black?style=for-the-badge&logoColor=white&logo=tailwindcss&color=06B6D4" alt="tailwindcss" />
   </div>
 
-  <h1 align="center">A 3D Dev Portfolio</h1>
+  <h3 align="center">A 3D Dev Portfolio</h3>
 
    <div align="center">
      Build this project step by step with our detailed tutorial on <a href="https://www.youtube.com/@javascriptmastery/videos" target="_blank"><b>JavaScript Mastery</b></a> YouTube. Join the JSM family!
@@ -27,6 +27,14 @@
 5. 🕸️ [Snippets](#snippets)
 6. 🔗 [Links](#links)
 7. 🚀 [More](#more)
+
+## 🚨 Tutorial
+
+This repository contains the code corresponding to an in-depth tutorial available on our YouTube channel, <a href="https://www.youtube.com/@javascriptmastery/videos" target="_blank"><b>JavaScript Mastery</b></a>. 
+
+If you prefer visual learning, this is the perfect resource for you. Follow our tutorial to learn how to build projects like these step-by-step in a beginner-friendly manner!
+
+<a href="https://www.youtube.com/watch?v=FkowOdMjvYo" target="_blank"><img src="https://img.shields.io/badge/-Watch_Tutorial-black?style=for-the-badge&logoColor=white&logo=youtube&color=CD201F" /></a>
 
 
 ## <a name="introduction">🤖 Introduction</a>
