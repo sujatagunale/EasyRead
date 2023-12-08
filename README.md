@@ -20,10 +20,16 @@
 
 ## 📋 Table of Contents
 
-1. 🤖 [Introduction](#🤖-introduction)
-2.  ⚙️ [Tech Stack](#tech-stack)
+1. 🤖 [Introduction](#introduction)
+2. ⚙️ [Tech Stack](#tech-stack)
+3. 🔋 [Features](#features)
+4. 🤸 [QuickStart](#quick-start)
+5. 🕸️ [Snippets](#snippets)
+6. 🔗 [Links](#links)
+7. 🚀 [More](#more)
 
-## 🤖 Introduction
+
+## <a name="introduction">🤖 Introduction</a>
 
 Built with React.js for handling the user interface, Three.js for rendering 3D elements, and styled with TailwindCSS, 3D Island is a website project. The primary goal is to demonstrate the developer's skills in a unique manner that creates a lasting impact.
 
@@ -31,7 +37,7 @@ Check out the detailed tutorial for this open-source project [here](https://www.
 
 <a href="https://discord.com/invite/n6EdbFJ" target="_blank"><img src="https://amplication.com/images/discord_banner_purple.svg" /></a>
 
-## ⚙️ Tech Stack
+## <a name="tech-stack">⚙️ Tech Stack</a>
 
 - Node.js
 - React.js
@@ -42,7 +48,7 @@ Check out the detailed tutorial for this open-source project [here](https://www.
 - Vite
 - Tailwind CSS
 
-## 🔋 Features
+## <a name="features">🔋 Features</a>
 
 👉 **Engaging 3D Floating Fox Island**: Rotate and explore using drag-and-drop or arrow keys.
 
@@ -70,7 +76,7 @@ Check out the detailed tutorial for this open-source project [here](https://www.
 
 and many more, including code architecture and reusability 
 
-## 🤸 QuickStart
+## <a name="quick-start">🤸 QuickStart</a>
 
 Follow these steps to set up the project locally on your machine.
 
@@ -117,7 +123,7 @@ npm start
 
 Open [http://localhost:3000](http://localhost:3000) in your browser to view the project.
 
-## 🕸️ Snippets
+## <a name="snippets">🕸️ Snippets</a>
 
 <details>
 <summary><code>index.css</code></summary>
@@ -609,11 +615,11 @@ switch (true) {
 ```
 </details>
 
-## 🔗 Links
+## <a name="links">🔗 Links</a>
 
 Models and Assets used in the project can be found [here](https://drive.google.com/file/d/1TACDN8qFpi_NW66I4p48R9_MUmx-JT3P/edit)
 
-## 🚀 More
+## <a name="more">🚀 More</a>
 
 **Advance your skills with Next.js 14 Pro Course**
 
