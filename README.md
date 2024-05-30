@@ -25,7 +25,7 @@
 3. 🔋 [Features](#features)
 4. 🤸 [Quick Start](#quick-start)
 5. 🕸️ [Snippets](#snippets)
-6. 🔗 [Links](#links)
+6. 🔗 [Assets](#links)
 7. 🚀 [More](#more)
 
 ## 🚨 Tutorial
@@ -127,7 +127,7 @@ Open [http://localhost:3000](http://localhost:3000) in your browser to view the 
 
 </details>
 
-## <a name="links">🔗 Links</a>
+## <a name="links">🔗 Assets</a>
 
 Models and Assets used in the project can be found [here](https://drive.google.com/file/d/1TACDN8qFpi_NW66I4p48R9_MUmx-JT3P/edit)
 
